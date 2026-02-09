@@ -1,0 +1,11 @@
+feedback_id,district,topic,feedback_text
+F001,Centre-ville,Energy,"La piscine est ouverte toute l’année mais il fait froid dans les vestiaires."
+F002,Quartier Nord,Waste,"On ne comprend pas les consignes de tri, elles changent tout le temps."
+F003,Quartier Sud,Lighting,"Les lumières restent allumées toute la nuit devant l’école."
+F004,Centre-ville,Mobility,"Je voudrais plus de pistes cyclables mais pas au détriment des commerces."
+F005,Quartier Est,Energy,"Les bâtiments publics sont très mal isolés."
+F006,Quartier Nord,Waste,"Les poubelles de tri débordent souvent."
+F007,Quartier Sud,Lighting,"Il y a trop d’éclairage la nuit, ça gêne le sommeil."
+F008,Quartier Est,Mobility,"Les pistes cyclables ne sont pas sécurisées."
+F009,Centre-ville,Energy,"On gaspille beaucoup d’énergie dans les bâtiments publics."
+F010,Quartier Nord,Communication,"La mairie ne communique pas clairement sur les actions écologiques."

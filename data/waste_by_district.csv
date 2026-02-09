@@ -1,0 +1,5 @@
+district_id,district_name,household_waste_tons,sorted_waste_tons
+D01,Centre-ville,4200,1100
+D02,Quartier Nord,3600,800
+D03,Quartier Sud,2900,950
+D04,Quartier Est,3200,700

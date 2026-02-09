@@ -1,0 +1,7 @@
+building_id,building_name,building_type,annual_energy_mwh
+B001,Hotel de Ville,Administratif,1200
+B002,Piscine Municipale,Sport,2800
+B003,Gymnase Nord,Sport,950
+B004,Ecole Primaire A,Education,620
+B005,Ecole Primaire B,Education,580
+B006,Mediatheque,Culture,740
