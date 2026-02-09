@@ -8,10 +8,10 @@
 
 À la fin de l’atelier, vous devez être capables de :
 
-- Identifier où l’IA générative apporte de la valeur dans un projet data
-- Produire une aide à la décision compréhensible par des non-tech
-- Justifier, documenter et encadrer l’usage de l’IA
-- Mettre en évidence les limites, biais et risques
+- [ ] Identifier où l’IA générative apporte de la valeur dans un projet data
+- [ ] Produire une aide à la décision compréhensible par des non-tech
+- [ ] Justifier, documenter et encadrer l’usage de l’IA
+- [ ] Mettre en évidence les limites, biais et risques
 
 > L’IA ne décide pas, elle augmente la lisibilité pour un décideur public.
 
