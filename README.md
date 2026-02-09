@@ -326,3 +326,9 @@ Questions à discuter collectivement :
 
 > L’IA générative est un outil d’aide à la décision, pas un décideur.  
 > Le rôle des équipes de data management est d’en encadrer l’usage, pas de s’effacer.
+
+---
+
+## 📥 Formulaire de rendu
+
+_A venir_
