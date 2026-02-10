@@ -37,7 +37,7 @@ Produire une **note d’aide à la décision**, claire, argumentée et exploitab
 
 > Sur quels leviers la ville doit-elle agir en priorité pour réduire son impact environnemental, **à budget constant**, sur les 3 prochaines années ?
 
-## 📦 Exemple de données à exploiter
+## 📦 Exemple de données
 
 Les données présentées ci-dessous sont fictives et fournies à titre d’exemple.
 L’objectif de l’exercice est de **collecter, analyser et exploiter des données réelles** issues de sources publiques.
@@ -105,7 +105,7 @@ L’IA peut être utilisée pour :
 
 ---
 
-## 🛠️ Consignes de travail (2H)
+## 🛠️ Consignes de travail
 
 ### Étape 1 — Compréhension du problème
 
